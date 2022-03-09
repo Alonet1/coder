@@ -1,0 +1,3 @@
+gcc getenv.c -o getenv
+
+./getenv SHELL
